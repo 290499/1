@@ -1,10 +1,11 @@
 module.exports = {
-  url: '',
-  size: '',
-  firstName: '',
-  lastName: '',
-  phoneNumber: '',
-  email: '',
+  url: 'http://www.eastbay.com/product/model:271144/sku:52425110/',
+  size: '10',
+  country:  '',
+  firstName: 'Th2o',
+  lastName: 'plower',
+  street: '',
+  billAddress2: '',
   shipping: {
     addressLine1: '',
     addressLine2: '',
